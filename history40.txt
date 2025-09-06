@@ -1,0 +1,40 @@
+   19  clear
+   20  bash experiment4.sh
+   21  clear
+   22  ld
+   23  ls
+   24  exit
+   25  cd desktop
+   26  cd linux
+   27  ls
+   28  bash lt1.sh
+   29  bash lt2.sh
+   30  bash lt3.sh
+   31  bash lt4.sh
+   32  exit
+   33  ./script.sh -a 590029302_Exp1_ScriptLog.md
+   34  clear
+   35  script -a 590029302_Exp1ScriptLog.md
+   36  script 590029302_Exp1ScriptLog.md
+   37  nano 590029302_Exp1ScriptLog.md
+   38  cat 590029302_Exp1ScriptLog.md
+   39  cd desktop
+   40  cd LINUX
+   41  cd exp1
+   42  cat 590029302_Exp1ScriptLog.md
+   43  ./lt3.sh
+   44  ./lt4.sh
+   45  ./task3.sh 15 5
+   46  cd desktop
+   47  cd linux
+   48  cd exp1
+   49  ./task4.sh
+   50  ok
+   51  cd
+   52  cd desktop
+   53  ls
+   54  cd desktop
+   55  cd linux
+   56  ls
+   57  history
+   58  history 40 > history40.txt
