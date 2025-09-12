@@ -78,13 +78,13 @@ echo "Sum of digits: $sum"
 
 ### Output:
 <p align="center">
-<img align="center" src="/img/t6.png" width="900">
+<img align="center" src="img/t6.png" width="900">
 </p>
 
 ## Exercise 3: [Armstrong Numbers]
 
 ## Task Statement:
-* [Take input user and give the sum of Armstrong number of n digits is a number equal to the sum of its digits raised to the power n. Example: 153 = 13 + 53 + 33]
+* [Take input user and give the sum of Armstrong number of n digits is a number equal to the sum of its digits raised to the power n. Example: 153 = 1^3^ + 5^3^ + 3^3^ ]
 
 ## Explanation:
 * [This script will tell if the number entered by the user is an armstrong number or not.]
@@ -115,7 +115,7 @@ fi
 
 ### Output:
 <p align="center">
-<img align="center" src="/img/t7.png" width="900">
+<img align="center" src="img/t7.png" width="900">
 </p>
 
 ## Result:
