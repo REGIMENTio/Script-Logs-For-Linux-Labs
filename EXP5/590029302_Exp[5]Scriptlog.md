@@ -29,7 +29,7 @@ echo "Enter a number: "
 read num
 flag=0
 
-for ((i=2; i<=num/2; i++))
+for ((i=2; i<num; i++))
 do
     if [ $((num % i)) -eq 0 ]
     then
