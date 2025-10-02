@@ -27,6 +27,7 @@
     ```
     wsl --install -d ubuntu
     ```
+    
 * **Observation:** The command automatically enabled the "Virtual Machine Platform" and "Windows Subsystem for Linux" optional components. It then proceeded to download the Ubuntu distribution. The system requested a reboot to complete the final stage of the installation.
 
 #### Exercise 2: [Configuring the Ubuntu Distribution]

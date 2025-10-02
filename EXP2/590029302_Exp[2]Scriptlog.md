@@ -14,6 +14,89 @@
 
 ## Procedure & Observations
 
+## Practice Exercises
+
+### Exercise 1: File System Navigation
+
+```bash
+cd
+pwd
+mkdir -p projects/linux_practice/{scripts,documents,backup}
+cd projects/linux_practice/scripts
+touch setup.sh cleanup.sh readme.txt
+ls -la
+cd ..
+ls -la
+```
+
+**Output:**
+
+<p align="center"><img src="img\exp2ex1.png" width="900"></p>
+
+### Exercise 2: File Operations and Permissions
+
+```bash
+cd ~/projects/linux_practice/documents
+echo "This is a practice document" > practice.txt
+ls -l practice.txt
+chmod 644 practice.txt
+cp practice.txt ../backup/
+cp practice.txt ../backup/practice_backup_$(date +%Y%m%d).txt
+ls -la ../backup/
+```
+
+**Output:**
+
+<p align="center"><img src="img\exp2ex2.png" width="900"></p>
+
+### Exercise 3: Text Editing and Viewing
+
+```bash
+cd ~/projects/linux_practice/documents
+seq 1 50 > numbers.txt
+head numbers.txt
+tail -n 5 numbers.txt
+cat numbers.txt | grep "25"
+nano numbers.txt
+cat numbers.txt
+```
+
+**Output:**
+
+<p align="center"><img src="img\exp2ex3.png" width="900"></p>
+
+### Exercise 4: System Exploration
+
+```bash
+uname -a
+df -h
+history 10
+who
+whoami
+top
+```
+
+**Output:**
+
+<p align="center"><img src="img\exp2ex4.png" width="900"></p>
+
+### Exercise 5: Cleanup
+
+```bash
+cd ~/projects/linux_practice
+rm -i documents/numbers.txt
+rmdir backup
+rm -r backup
+ls -la
+history | tail -20
+```
+
+**Output:**
+
+<p align="center"><img src="img\exp2ex5.png" width="900"></p>
+
+---
+
 ## TASK 1: [Directory Navigation]
 
 ## Task Statement:
@@ -253,6 +336,32 @@ find . -type d | wc -l >> summary.txt
 <p align="center">
 <img align="center" src="img/t10.png" width="900">
 </p>
+
+
+## Result
+
+* Successfully created, copied, moved, and deleted files.
+* Practiced viewing file contents and monitoring logs.
+* Explored file permissions and ownership management.
+* Used `find` and `grep` to locate and filter data.
+* Created archives and compressed files.
+* Demonstrated both hard and symbolic links.
+
+## Challenges Faced & Learning Outcomes
+
+* Challenge 1: Accidentally deleted files with `rm` without `-i`. Learned to use `rm -i` for safety.
+* Challenge 2: Remembering numeric vs symbolic permissions in `chmod`. Fixed through repeated practice.
+
+### Learning:
+
+* Gained practical skills with file manipulation and permission commands.
+* Learned how to efficiently search files and patterns in Linux.
+* Understood how to archive and compress files for better storage management.
+* Understood differences between hard and symbolic links.
+
+## Conclusion
+
+This experiment provided hands-on experience with core Linux file management, permissions, searching, archiving, and linking. These are foundational skills for effective Linux system administration and daily usage.
 
 
 

@@ -118,5 +118,7 @@ fi
 <img align="center" src="img/t7.png" width="900">
 </p>
 
+
+
 ## Result:
 * The Exercises were successfully completed for Basic Shell Scripting.
