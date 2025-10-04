@@ -14,7 +14,7 @@
 
 ## Index
 
-* [Experiment 1: Installation of VirtualBox and WSL](590029302_Exp[1]Scriptlog.md)
+* [Experiment 1: Installation of VirtualBox and WSL](EXP1/590029302_Exp[1]Scriptlog.md)
 * [Experiment 2: Linux File Systems, Permissions and Commands](590029302_Exp[2]Scriptlog.md)
 * [Experiment 3: Advanced Filed and Directory Operations](590029302_Exp[3]Scriptlog.md)
 * [Experiment 4: BASH or SHELL scripting](590029302_Exp[4]Scriptlog.md)
