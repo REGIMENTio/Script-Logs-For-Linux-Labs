@@ -2,13 +2,13 @@
 
 
 
-**Name:** Hrithvik Bhardwaj
+**Name:** Tanmay Amit Verma
 
-**SAP ID:** 590029169
+**SAP ID:** 590029302
 
-**Course:** B.Tech CSE B77
+**Course:** B.Tech CSE B78
 
-**Email:** hrithvik.29169@stu.upes.ac.in
+**Email:** tanmayrookie1234@gmail.com
 
 ---
 
