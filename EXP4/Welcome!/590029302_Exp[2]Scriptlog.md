@@ -31,7 +31,7 @@ ls -la
 
 **Output:**
 
-<p align="center"><img src="img\exp2ex1.png" width="900"></p>
+<p align="center"><img src="../_resources/exp2ex1.png" width="900"></p>
 
 ### Exercise 2: File Operations and Permissions
 
@@ -47,7 +47,7 @@ ls -la ../backup/
 
 **Output:**
 
-<p align="center"><img src="img\exp2ex2.png" width="900"></p>
+<p align="center"><img src="../_resources/exp2ex2.png" width="900"></p>
 
 ### Exercise 3: Text Editing and Viewing
 
@@ -63,7 +63,7 @@ cat numbers.txt
 
 **Output:**
 
-<p align="center"><img src="img\exp2ex3.png" width="900"></p>
+<p align="center"><img src="../_resources/exp2ex3.png" width="900"></p>
 
 ### Exercise 4: System Exploration
 
@@ -78,7 +78,7 @@ top
 
 **Output:**
 
-<p align="center"><img src="img\exp2ex4.png" width="900"></p>
+<p align="center"><img src="../_resources/exp2ex4.png" width="900"></p>
 
 ### Exercise 5: Cleanup
 
@@ -93,7 +93,7 @@ history | tail -20
 
 **Output:**
 
-<p align="center"><img src="img\exp2ex5.png" width="900"></p>
+<p align="center"><img src="../_resources/exp2ex5.png" width="900"></p>
 
 ---
 
@@ -115,7 +115,7 @@ pwd
 '''
 ### Output:
 <p align="center">
-<img align="center" src="img\t1.png" width="900">
+<img align="center" src="../_resources/t1.png" width="900">
 </p>
 
 ## TASK 2: [FIle Creation and Content]
@@ -139,7 +139,7 @@ cat readme.txt
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t2.png" width="900">
+<img align="center" src="../_resources/t2.png" width="900">
 </p>
 
 
@@ -160,7 +160,7 @@ cp readme.txt data/project_info.txt
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t3.png" width="900">
+<img align="center" src="../_resources/t3.png" width="900">
 </p>
 
 
@@ -182,10 +182,10 @@ chmod u+x backup.sh
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t4.1.png" width="900">
+<img align="center" src="../_resources/t4.1.png" width="900">
 </p>
 <p align="center">
-<img align="center" src="img/t4.2.png" width="900">
+<img align="center" src="../_resources/t4.2.png" width="900">
 </p>
 
 ## TASK 5: [FIle Viewing]
@@ -207,7 +207,7 @@ grep "1"
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t5.png" width="900">
+<img align="center" src="../_resources/t5.png" width="900">
 </p>
 
 
@@ -238,7 +238,7 @@ cat config.txt
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t6.png" width="900">
+<img align="center" src="../_resources/t6.png" width="900">
 </p>
 
 
@@ -268,7 +268,7 @@ df -h >> system_info.txt
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t7.png" width="900">
+<img align="center" src="../_resources/t7.png" width="900">
 </p>
 
 ## TASK 8: [File Organisation]
@@ -288,7 +288,7 @@ cp test_project/data/project_info.txt    test_project/docs/notes.txt    test_pro
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t8.png" width="900">
+<img align="center" src="../_resources/t8.png" width="900">
 </p>
 
 
@@ -308,7 +308,7 @@ history 10
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t9.png" width="900">
+<img align="center" src="../_resources/t9.png" width="900">
 </p>
 
 ## TASK 10: [Comprehensive Cleanup]
@@ -334,7 +334,7 @@ find . -type d | wc -l >> summary.txt
 
 ### Output:
 <p align="center">
-<img align="center" src="img/t10.png" width="900">
+<img align="center" src="../_resources/t10.png" width="900">
 </p>
 
 

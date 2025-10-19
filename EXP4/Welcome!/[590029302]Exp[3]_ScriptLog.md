@@ -39,11 +39,11 @@ touch -t 202401151430 dated_file.txt
 ### Output:
 
 <p align="center">
-<img src="img\exp3t1.2.png" width="900">
+<img src="../_resources/exp3t1.2.png" width="900">
 </p>
 
 <p align="center">
-<img src="img\exp3t1.png" width="900">
+<img src="../_resources/exp3t1.png" width="900">
 </p>
 ---
 
@@ -65,7 +65,7 @@ rm -r old_directory/
 ### Output:
 
 <p align="center">
-<img src="img\exp3t2.png" width="900">
+<img src="../_resources/exp3t2.png" width="900">
 </p>
 
 ---
@@ -88,7 +88,7 @@ tail -n 20 filename.txt
 ### Output:
 
 <p align="center">
-<img src="img\exp3t3.png" width="900">
+<img src="../_resources/exp3t3.png" width="900">
 </p>
 
 ---
@@ -110,10 +110,10 @@ chmod u+x script.sh
 ### Output:
 
 <p align="center">
-<img src="img\exp3t4.2.png" width="900">
+<img src="../_resources/exp3t4.2.png" width="900">
 </p>
 <p align="center">
-<img src="img\exp3t4.1.png" width="900">
+<img src="../_resources/exp3t4.1.png" width="900">
 </p>
 
 ---
@@ -136,7 +136,7 @@ find /tmp -type f -empty -delete
 ### Output:
 
 <p align="center">
-<img src="img\exp3t5.png" width="900">
+<img src="../_resources/exp3t5.png" width="900">
 </p>
 
 ---
@@ -159,7 +159,7 @@ grep -n "TODO" *.txt
 ### Output:
 
 <p align="center">
-<img src="img\exp3t6.png" width="900">
+<img src="../_resources/exp3t6.png" width="900">
 </p>
 
 ---
@@ -182,7 +182,7 @@ gunzip largefile.txt.gz
 ### Output:
 
 <p align="center">
-<img src="img\exp3t7.png" width="900">
+<img src="../_resources/exp3t7.png" width="900">
 </p>
 
 ---
@@ -205,7 +205,7 @@ ls -li original.txt hardlink.txt symlink.txt
 ### Output:
 
 <p align="center">
-<img src="img\exp3t8.png" width="900">
+<img src="../_resources/exp3t8.png" width="900">
 </p>
 
 ---

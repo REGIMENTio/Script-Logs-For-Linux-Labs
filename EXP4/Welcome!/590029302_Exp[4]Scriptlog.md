@@ -28,7 +28,7 @@ echo "Hello, World!"
 
 #### Output:
 <p align="center">
-<img src="img/t1.png" alt="t1" width="900">
+<img src="../_resources/t1-1.png" alt="t1" width="900">
 </p>
 
 
@@ -51,7 +51,7 @@ echo "Hello, $name! Welcome to Shell Scripting."
 
 ## Output:
 <p align="center">
-<img src="img/t2.png" width="900">
+<img src="../_resources/t2-1.png" width="900">
 </p>
 
 ## Exercise 3: [Arithmetic Operations in Shell Scripting]
@@ -78,7 +78,7 @@ echo "Division: $((num1 / num2))"
 ## Output:
 <p align="center">
 <img align="center" 
-src="img/t3.png" width="900">
+src="../_resources/t3-1.png" width="900">
 </p>
 
 ## Exercise 4:
@@ -106,7 +106,7 @@ fi
 ## Output:
 <p align="center">
 <img align="center" 
-src="img/t4.png" width="900">
+src="../_resources/t4.png" width="900">
 </p>
 
 ## Result
