@@ -1,4 +1,6 @@
-#!/bin/bash
 
-count=$(find /home/user -maxdepth 1 -type f -name "*.sh" | wc -l)
-echo "Number of .sh files in /home/user: $count"
+#!/bin/bash
+echo "Enter Directory Name"
+read dir
+count=$(find $dir -type f -name "*.sh" | wc -l)
+echo "Number of .sh files in $dir $count"

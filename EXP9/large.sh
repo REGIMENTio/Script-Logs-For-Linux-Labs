@@ -1,11 +1,12 @@
+
 #!/bin/bash
-
-dir="$1"
-
-if [ -z "$dir" ]; then
-    echo "Usage: $0 <directory>"
-    exit 1
+echo "Enter directory path:"
+read dir
+if [ ! -d "$dir" ]; then
+echo "Invalid directory!"
+exit 1
 fi
-
-find "$dir" -type f -exec du -b {} + 2>/dev/null | sort -nr | head -n 1
+largest=$(find "$dir" -type f -printf "%s %p\n" | sort -nr | head -1)
+echo "Largest file:"
+echo "$largest"
 
