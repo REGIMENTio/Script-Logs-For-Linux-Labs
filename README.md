@@ -25,5 +25,5 @@
 * [Experiment 9: Shell Programming continued, System Performance Monitoring](EXP9/590029302_Exp[9]Scriptlog.md)
 * [Experiment 10: Shell Programming continued, System Performance Monitoring](EXP10/590029302_Exp[10]Scriptlog.md)
 * [Experiment 11: Shell Programming continued, System Performance Monitoring](EXP11/590029302_Exp[11]Scriptlog.md)
-* [Assignment 1:](Assignments/)
-* [Assignment 2:](Assignments/)
+* [Assignment 1:](Assignments/Assignment-1.md)
+* [Assignment 2:](Assignments/Assignment-2.md)
