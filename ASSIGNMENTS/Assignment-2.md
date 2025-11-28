@@ -1,5 +1,5 @@
 # Assignment 2: Linux & Shell Scripting Tasks
-**Name:** Hrithvik Bhardwaj  
+**Name:** Tanmay Amit Verma 
 **Roll No.:** 590029302
 **Date:** 2025-09-23
 
