@@ -1,6 +1,6 @@
 # Assignment-1: Linux Commands & Shell Scripting Report
-**Name:** Hrithvik Bhardwaj  
-**Roll No.:** 590029169  
+**Name:** Tanmay Amit Verma
+**Roll No.:** 590029302  
 **Date:** 2025-09-23  
 
 ## Aim
